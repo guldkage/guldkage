@@ -1,4 +1,4 @@
-# Hi there, I'm guldkage!
+# Hi there, I'm Malthe (guldkage)!
 Thanks for checking out my profile. I've pinned the projects I'm working on the most or want to showcase.
 
 <img src="https://komarev.com/ghpvc/?username=guldkage&label=Profile%20views&color=0e75b6&style=flat" alt="guldkage" />
